@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... [RUBYCOMMUNITY>ORG](https://www.rubycommunity.org)
+- 🔭 I’m currently working on ... [RUBYCOMMUNITY.ORG](https://www.rubycommunity.org)
 - 🌱 I’m currently learning ... GraphQL, MongoDB, ReactNative
 - 👯 I’m looking to collaborate on ... Web Apps, Apis
 - 🤔 I’m looking for help with ...  AWS
