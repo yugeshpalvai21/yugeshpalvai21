@@ -4,6 +4,7 @@
 **yugeshpalvai21/yugeshpalvai21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ... [RUBYCOMMUNITY>ORG](https://www.rubycommunity.org)
 - 🌱 I’m currently learning ... GraphQL, MongoDB, ReactNative
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [VISIT MY DOMAIN](http://www.yugesh-palvai.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Update Soon
--->
+
