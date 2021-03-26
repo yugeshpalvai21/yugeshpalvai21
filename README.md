@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Yugesh Palvai and I'm a full stack developer! 👋
 
 <!--
 **yugeshpalvai21/yugeshpalvai21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
