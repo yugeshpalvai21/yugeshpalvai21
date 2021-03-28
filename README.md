@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name Is Yugesh Palvai</h1>
-<h3 align="center">I'm a full stack developer!</h3>
+<h3 align="center">I'm a Full Stack Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugeshpalvai21&label=Profile%20views&color=0e75b6&style=flat" alt="yugeshpalvai21" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Here Is Resume](http://www.yugesh-palvai.com/Yugesh-Palvai-RubyonRails-FullStack-Resume.pdf)
 
-- ⚡ Fun fact **Update Soon**
+<!-- - ⚡ Fun fact **Update Soon** -->
 <br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
