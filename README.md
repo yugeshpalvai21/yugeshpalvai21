@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [RUBYCOMMUNITY.ORG](https://www.rubycommunity.org)
 
-- 🌱 I’m currently learning **GraphQL, DevOps**
+- 🌱 I’m currently learning **GraphQL, Apollo, DevOps**
 
 - 👯 I’m looking to collaborate on **Web Apps, Apis**
 
