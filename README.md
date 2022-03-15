@@ -7,21 +7,21 @@
 
 - 🔭 I’m currently working on [RUBYCOMMUNITY.ORG](https://www.rubycommunity.org)
 
-- 🌱 I’m currently learning **GraphQL, Apollo, DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Web Apps, Apis**
 
 - 🤝 I’m looking for help with **Docker, AWS**
 
-- 👨‍💻 All of my projects are available at [CLICK HERE](http://www.yugesh-palvai.com/portfolios)
+- 👨‍💻 All of my projects are available at [CLICK HERE](http://www.yugeshpalvai.com/portfolios)
 
 - 📝 I regularly write articles on [VISIT MY BLOG](https://www.rubycommunity.org/articles)
 
 - 💬 Ask me about **Ruby, Rails, FULL STACK WEB DEVELOPMENT**
 
-- 📫 How to reach me [VISIT MY PERSONAL DOMAIN](http://www.yugesh-palvai.com)
+- 📫 How to reach me [VISIT MY PERSONAL DOMAIN](http://www.yugeshpalvai.com/contact)
 
-- 📄 Know about my experiences [Here Is Resume](http://www.yugesh-palvai.com/Yugesh-Palvai-RubyonRails-FullStack-Resume.pdf)
+- 📄 Know about my experiences [Here Is Resume](http://www.yugeshpalvai.com/about)
 
 <!-- - ⚡ Fun fact **Update Soon** -->
 <br/><br/>
