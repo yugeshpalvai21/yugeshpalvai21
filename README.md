@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [RUBYCOMMUNITY.ORG](https://www.rubycommunity.org)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Golang, DevOps**
 
 - 👯 I’m looking to collaborate on **Web Apps, Apis**
 
-- 🤝 I’m looking for help with **Docker, AWS**
+- 🤝 I’m looking for help with **Go, Docker, AWS**
 
 - 👨‍💻 All of my projects are available at [CLICK HERE](http://www.yugeshpalvai.com/portfolios)
 
