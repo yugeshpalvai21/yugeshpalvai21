@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Go, Docker, AWS**
 
-- 👨‍💻 All of my projects are available at [CLICK HERE](http://www.yugeshpalvai.com/portfolios)
+- 👨‍💻 All of my projects are available at [CLICK HERE](https://www.yugeshpalvai.info/portfolios)
 
 - 📝 I regularly write articles on [VISIT MY BLOG](https://www.rubycommunity.org/articles)
 
-- 💬 Ask me about **Ruby, Rails, FULL STACK WEB DEVELOPMENT**
+- 💬 Ask me about **Ruby, Rails, RSpec, Capybara,and FULL STACK WEB DEVELOPMENT**
 
-- 📫 How to reach me [VISIT MY PERSONAL DOMAIN](http://www.yugeshpalvai.com/contact)
+- 📫 How to reach me [VISIT MY PERSONAL DOMAIN](https://www.yugeshpalvai.info/contact)
 
-- 📄 Know about my experiences [Here Is Resume](http://www.yugeshpalvai.com/about)
+- 📄 Know about my experiences [Here Is Resume](https://www.yugeshpalvai.info)
 
 <!-- - ⚡ Fun fact **Update Soon** -->
 <br/><br/>
